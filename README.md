@@ -1,5 +1,5 @@
 # Task_02_DA
-📊 Exploratory Data Analysis (EDA) — Grocery Retail Data
+📊 Exploratory Data Analysis (EDA) — Supermarket sales Data
 Internship Task Submission
 📁 Project Overview
 
